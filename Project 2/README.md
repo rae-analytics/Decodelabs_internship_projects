@@ -77,7 +77,7 @@ The 2025 dataset only covers **January–June**, so 2025 was treated as **year-t
 
 This bar chart compares annual revenue performance while treating 2025 as year-to-date because the available data only covers January through June.
 
-![Annual Revenue Comparison (2025 YTD)](visuals/annual-revenue-comparison.png)
+![Annual Revenue Comparison (2025 YTD)](annual-revenue-comparison.png)
 
 **Insight:**
 
@@ -89,7 +89,7 @@ Revenue declined from 2023 to 2024, while the 2025 figure represents only the fi
 
 This line chart shows how revenue fluctuated across the months represented in the dataset.
 
-![Monthly Revenue](visuals/monthly-revenue.png)
+![Monthly Revenue](monthly-revenue.png)
 
 **Insight:**
 
